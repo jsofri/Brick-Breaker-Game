@@ -1,0 +1,82 @@
+
+# Level 1
+# 3 blocks direct hit
+
+
+START_LEVEL
+level_name:Baby Human
+ball_velocities:90,6
+background:image(background_images/baby.jpg)
+paddle_speed:8
+paddle_width:160
+block_definitions:definitions/standard_block_definitions.txt
+blocks_start_x:25
+blocks_start_y:80
+row_height:25
+num_blocks:6
+START_BLOCKS
+-------w
+-------p
+-------c
+END_BLOCKS
+END_LEVEL
+
+
+# Level 2
+# crazy baby shark level Wide paddle with many balls
+
+START_LEVEL
+level_name: Baby Shark
+ball_velocities:-135,10 -120,10 -105,10 -90,10 -75,10 -60,10 -45,10
+background:image(background_images/baby_shark.jpg)
+paddle_speed:13
+paddle_width:560
+block_definitions:definitions/baby_shark_block_definitions.txt
+blocks_start_x:25
+blocks_start_y:30
+row_height:38
+num_blocks:40
+START_BLOCKS
+-
+*pppprrpppp
+*ggggrrgggg
+*bbbbrrbbbb
+*pppr--rppp
+*r--------r
+
+END_BLOCKS
+END_LEVEL
+
+
+
+
+
+# Level 3
+# baby boss - 2 balls, many blocks, small paddle
+
+START_LEVEL
+level_name:Baby boss
+ball_velocities:-115,10 -135,8
+background:image(background_images/baby_boss.jpg)
+paddle_speed:10
+paddle_width:140
+block_definitions:definitions/baby_boss_block_definitions.txt
+blocks_start_x:25
+blocks_start_y:25
+row_height:25
+num_blocks:150
+START_BLOCKS
+ccccccccccccccc
+ccccccppccccccc
+cccccppppcccccc
+cpppppppppppppc
+cpppppppppppppc
+cwwwwwwwwwwwwwc
+cwwwwwwwwwwwwwc
+cwwwwwwwwwwwwwc
+cwwwwwwwwwwwwwc
+cwwwwwwwwwwwwwc
+bbbbbbbbbbbbbbb
+
+END_BLOCKS
+END_LEVEL

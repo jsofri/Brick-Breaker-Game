@@ -1,0 +1,13 @@
+# default values for blocks
+default height:38 width:70 fill:image(block_images/red_shark.jpg)
+
+# block definitions
+bdef symbol:g fill-2:image(block_images/green_shark.jpg) hit_points:2
+bdef symbol:b fill-2:image(block_images/blue_shark.jpg) hit_points:2
+bdef symbol:p fill-2:image(block_images/pink_shark.jpg) hit_points:2
+bdef symbol:r hit_points:1
+
+
+# spacers definitions
+sdef symbol:- width:70
+sdef symbol:* width:25
