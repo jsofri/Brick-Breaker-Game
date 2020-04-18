@@ -1,5 +1,6 @@
 ### how to run
 download all content of master branch
+open directory in CMD and run three commands:
 ```
 make compile
 make jar
