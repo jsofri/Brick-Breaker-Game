@@ -6,4 +6,4 @@ make jar
 java -jar ass7game.jar
 ```
 ### game flow
-[![](https://github.com/yehonatansofri/Brick-Breaker-Game/blob/master/resources/gameflow.PNG)]
+![](https://github.com/yehonatansofri/Brick-Breaker-Game/blob/master/resources/gameflow.PNG)
