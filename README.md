@@ -42,6 +42,3 @@ Control is by input from keyboard, mainly the arrow keys. following flow chart e
 
 ### Development
 adding more levels is possible and pretty easy. contact me for more information.
-
-### License
-free
