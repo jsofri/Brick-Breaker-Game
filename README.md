@@ -39,3 +39,9 @@ Control is by input from keyboard, mainly the arrow keys. following flow chart e
 ![](https://github.com/yehonatansofri/Brick-Breaker-Game/blob/master/readme/level2.png)
 #### level 3
 ![](https://github.com/yehonatansofri/Brick-Breaker-Game/blob/master/readme/level3.png)
+
+### Development
+adding more levels is possible and pretty easy. contact me for more information.
+
+### License
+free
