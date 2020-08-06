@@ -8,4 +8,4 @@ java -jar ass7game.jar
 ```
 ### game flow
 Control is by input from keyboard. following flow chart explains:
-![](https://github.com/yehonatansofri/Brick-Breaker-Game/blob/master/readme/gameflow.PNG)
+![](https://github.com/yehonatansofri/Brick-Breaker-Game/blob/master/readme/gameflow.png)
